@@ -4,9 +4,9 @@ Desarrollo de una web de prueba con node.js
 
 ### Imagenes de la aplicación
 
-![](images/1.png)
+![](imagenes/1.png)
 
-![](images/2.png)
+![](imagenes/2.png)
 
 
 ## Inicio proyecto en Node.js
