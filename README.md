@@ -1,10 +1,12 @@
 # Proyecto con NODE.js
 
-Desarrollo de una web de prueba que se puede ver en Github Pages
+Desarrollo de una web de prueba con node.js
 
-``` 
- https://guillermoechague.github.io/server-npm/
-``` 
+### Imagenes de la aplicación
+
+![](images/1.png)
+
+![](images/2.png)
 
 
 ## Inicio proyecto en Node.js
@@ -50,4 +52,9 @@ npm install hbs --save
 
 ```
 nodemon server -e js,hbs,html,css
+```
+
+## Cargar en Github Pages
+```
+npm i -D gh-pages
 ```
