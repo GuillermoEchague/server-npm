@@ -1,3 +1,10 @@
+# Proyecto con NODE.js
+
+Desarrollo de una web de prueba que se puede ver en Github Pages
+
+``` 
+ https://guillermoechague.github.io/server-npm/
+``` 
 
 
 ## Inicio proyecto en Node.js
@@ -16,19 +23,22 @@ pm i express --save
 ```
 
 ## Creae HTML
-
+``` 
 (!+Tab) con snipper
-
+``` 
 
 ## Middleware
+``` 
 app.use(express.static(__dirname + '/public'));
-
+``` 
 
 ## Boostrap
 
+``` 
 getbootstrap.com
 
 dist/
+``` 
 
 ## Handlebars
 
